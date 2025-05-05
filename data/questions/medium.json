@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Van Gogh",
+                "Picasso",
+                "Da Vinci",
+                "Rembrandt"
+            ],
+            "correct_answer": 2,
+            "difficulty": "medium",
+            "category": "art",
+            "explanation": "Leonardo da Vinci painted the Mona Lisa."
+        },
+        {
+            "id": 2,
+            "question": "Who wrote 'The Little Prince'?",
+            "options": [
+                "Victor Hugo",
+                "Antoine de Saint-Exup\u00e9ry",
+                "Moli\u00e8re",
+                "Albert Camus"
+            ],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "literature",
+            "explanation": "The Little Prince was written by Antoine de Saint-Exup\u00e9ry."
+        },
+        {
+            "id": 3,
+            "question": "What is the chemical symbol for Oxygen?",
+            "options": [
+                "O",
+                "Ox",
+                "Oy",
+                "Og"
+            ],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "Oxygen's symbol is O."
+        },
+        {
+            "id": 4,
+            "question": "In which country is Kyoto located?",
+            "options": [
+                "China",
+                "Japan",
+                "South Korea",
+                "Vietnam"
+            ],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "geography",
+            "explanation": "Kyoto is a famous city in Japan."
+        }
+    ]
+}

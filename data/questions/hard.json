@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the chemical symbol for gold?",
+            "options": [
+                "Au",
+                "Ag",
+                "Pb",
+                "Fe"
+            ],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "Gold's chemical symbol is Au."
+        },
+        {
+            "id": 2,
+            "question": "Who discovered penicillin?",
+            "options": [
+                "Marie Curie",
+                "Alexander Fleming",
+                "Isaac Newton",
+                "Louis Pasteur"
+            ],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "Alexander Fleming discovered penicillin in 1928."
+        },
+        {
+            "id": 3,
+            "question": "Which is the largest ocean on Earth?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Arctic",
+                "Pacific"
+            ],
+            "correct_answer": 3,
+            "difficulty": "hard",
+            "category": "geography",
+            "explanation": "The Pacific Ocean is the largest ocean."
+        },
+        {
+            "id": 4,
+            "question": "Which planet is closest to the Sun?",
+            "options": [
+                "Venus",
+                "Mercury",
+                "Earth",
+                "Mars"
+            ],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "space",
+            "explanation": "Mercury is the closest planet to the Sun."
+        }
+    ]
+}

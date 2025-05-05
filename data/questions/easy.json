@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is 2 + 2?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "2 + 2 equals 4."
+        },
+        {
+            "id": 2,
+            "question": "What color do you get by mixing blue and yellow?",
+            "options": [
+                "Green",
+                "Orange",
+                "Purple",
+                "Red"
+            ],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "Blue and yellow mixed together make green."
+        },
+        {
+            "id": 3,
+            "question": "How many legs does a dog have?",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "animals",
+            "explanation": "A dog has four legs."
+        },
+        {
+            "id": 4,
+            "question": "In which season do leaves fall from trees?",
+            "options": [
+                "Spring",
+                "Summer",
+                "Autumn",
+                "Winter"
+            ],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "nature",
+            "explanation": "Leaves fall in autumn."
+        }
+    ]
+}
